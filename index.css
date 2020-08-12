@@ -135,7 +135,6 @@ main img {
 }
 
 div.para {
-  
   background-color: #DDB9A3;
 }
 
@@ -144,9 +143,17 @@ div.para2 {
   margin: 5% auto;
 }
 
+.para2 p {
+  font-size: 1rem;
+}
+
 div.para2 img {
   display: block;
   margin: 0 auto;
+}
+
+span {
+  font-weight: bold;
 }
 
 footer {
