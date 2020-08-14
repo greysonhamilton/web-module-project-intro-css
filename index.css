@@ -54,7 +54,7 @@ body {
   display: block;
   margin: 0 auto;
   padding: 5% 10%;
-  font-family: Roboto Mono;
+  font-family: 'Roboto Mono', monospace;
   font-size: 62.5%;
   width: 80%;
   line-height: 1.5rem;
@@ -70,7 +70,7 @@ nav a {
   margin: 2% 2.5%;
   padding: 1% 4%;
   display: inline-block;
-  border-radius: 10%;
+  border-radius: 15px;
   color: white;
   text-align: center;
   text-decoration: none;
@@ -106,13 +106,12 @@ header img {
 
 section {
   margin: 0 1% 0 25%;
-  content-align: right;
 }
 
 h1 {
   padding: 3% 5%;
   font-size: 3rem;
-  font-family: chelsea market;
+  font-family: 'chelsea market', cursive;
   text-align: center;
 }
 
